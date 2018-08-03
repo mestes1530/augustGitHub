@@ -1,2 +1,3 @@
 something
 new line
+another new line
